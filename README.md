@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Keerthana-r-venugopal
+- 👀 I’m interested in AI/ML, Web development, AR
+- 🌱 I’m currently learning ML
+- 📫 How to reach mail id - keerthanarv110@gmail.com
+- ⚡ Fun fact: I am also an AR developer
